@@ -9,3 +9,7 @@ The Real_TIme_MPU6050 project is a data acquisition dashboard from an inecria sy
 
 
 ![RT1](https://user-images.githubusercontent.com/52639144/109905398-162d0880-7c75-11eb-893e-456899550b83.gif)
+
+Dashboard for Data analysis to the KTH 
+
+![KTH1](https://user-images.githubusercontent.com/52639144/119412577-1e1ba800-bcba-11eb-9ba5-ac64a2479a1e.gif)
