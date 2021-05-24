@@ -1,0 +1,3 @@
+A,B,C
+Variables with more correlation,A-B,0.716
+Variables without correlation,B-D,0.46
